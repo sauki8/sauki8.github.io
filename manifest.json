@@ -1,7 +1,7 @@
 {
-    "short_name": "Weather",
-    "name": "Weather - Do I need an umbrella?",
-    "description": "Weather forecast information",
+    "short_name": "To Do List",
+    "name": "PWA To do list",
+    "description": "Aplikasi PWA To do list",
     "icons": [
       {
         "src": "https://via.placeholder.com/48",
