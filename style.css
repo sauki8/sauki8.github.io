@@ -71,7 +71,6 @@ label[for='new-task'] {
 }
 input#new-task {
   float: left;
-  width: 318px;
 }
 p > button:hover {
   color: #0FC57C;
