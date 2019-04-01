@@ -7,7 +7,10 @@ var filestocache = ['favicon/android-icon-36x36.png',
                     'favicon/android-icon-192x192.png',
                     'app.js',
                     'index.html',
-                    'style.css'
+                    'style.css',
+                    'manifest.json',
+                    'script.js',
+                    'service-worker.js'
                   ];
 
 self.addEventListener('install', (event)=>{
