@@ -1,42 +1,42 @@
 {
-    "short_name": "To Do List",
-    "name": "PWA To do list",
-    "description": "Aplikasi PWA To do list",
-    "icons": [
+    "short_name" : "To Do List",
+    "name" : "PWA To Do List",
+    "description" : "Aplikasi To do list PWA",
+    "icons" : [
       {
-        "src": "favicon/android-icon-36x36.png",
-        "sizes": "36x36",
-        "type": "image/png"
+        "src":"favicon/android-icon-36x36.png",
+        "type":"image/png",
+        "sizes":"36x36"
       },
       {
-        "src": "favicon/android-icon-48x48.png",
-        "sizes": "48x48",
-        "type": "image/png"
+        "src":"favicon/android-icon-48x48.png",
+        "type":"image/png",
+        "sizes":"48x48"
       },
       {
-        "src": "favicon/android-icon-72x72.png",
-        "sizes": "72x72",
-        "type": "image/png"
+        "src":"favicon/android-icon-72x72.png",
+        "type":"image/png",
+        "sizes":"72x72"
       },
       {
-        "src": "favicon/android-icon-96x96.png",
-        "sizes": "96x96",
-        "type": "image/png"
+        "src":"favicon/android-icon-96x96.png",
+        "type":"image/png",
+        "sizes":"96x96"
       },
       {
-        "src": "favicon/android-icon-144x144.png",
-        "sizes": "144x144",
-        "type": "image/png"
+        "src":"favicon/android-icon-144x144.png",
+        "type":"image/png",
+        "sizes":"144x144"
       },
       {
-        "src": "favicon/android-icon-192x192.png",
-        "sizes": "192x192",
-        "type": "image/png"
+        "src":"favicon/android-icon-192x192.png",
+        "type":"image/png",
+        "sizes":"192x192"
       }
     ],
-    "start_url": "/",
+    "start_url":"/",
     "background_color": "#3367D6",
     "display": "standalone",
     "scope": "/",
     "theme_color": "#3367D6"
-  }
+}
